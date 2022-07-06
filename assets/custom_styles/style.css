@@ -1,0 +1,8 @@
+#flex-table > .price{
+  display: flex;
+  color: red;
+  background-color: blue!important;
+}
+.price {
+  color: red;
+}
